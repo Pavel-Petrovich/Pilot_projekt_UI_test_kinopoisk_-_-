@@ -4,7 +4,6 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from urls import MAIN_URL
 from pages.main_page import MainPage
-#from pages.product_page import ProductPage
 
 
 @pytest.fixture
