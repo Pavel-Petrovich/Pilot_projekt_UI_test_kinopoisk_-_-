@@ -1,0 +1,9 @@
+MAIN_URL = "https://www.kinopoisk.ru/" # Главная
+SHOP_URL = "https://hd.kinopoisk.ru/buy" # Магазин
+MOVIES_URL = "https://www.kinopoisk.ru/lists/categories/movies/1/" # Фильмы
+SERIES_URL = "https://www.kinopoisk.ru/lists/categories/movies/3/" # Сериалы
+TV_CHANNELS_URL = "https://hd.kinopoisk.ru/channels" # Телеканалы
+SPORT_URL = "https://hd.kinopoisk.ru/sport/" # Спорт
+SUBSCRIBE_URL = "https://hd.kinopoisk.ru/promo" # Подписки
+MOVIE_TICKETS_URL = "https://www.kinopoisk.ru/lists/movies/movies-in-cinema/" # Билеты в кино
+MEDIA_URL = "https://www.kinopoisk.ru/media/" # Медиа
