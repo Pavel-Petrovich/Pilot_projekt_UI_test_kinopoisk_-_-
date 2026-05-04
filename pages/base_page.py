@@ -8,7 +8,7 @@ class BasePage:
 
     def __init__(self, driver):
         self.driver = driver
-        self.wait = WebDriverWait(driver, 7)
+        self.wait = WebDriverWait(driver, 5)
 
     @allure.step('Подождать видимости элемента')
     def wait_for_element(self, locator):
